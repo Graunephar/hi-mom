@@ -8,6 +8,7 @@ export default {
   cn: "你好，{{妈妈}}!",
   cs: "Ahoj, {{mamá}}!",
   de: "Hallo, {{Mama}}!",
+  da: "Hej, {{mor}}!",
   en: "Hi, {{mom}}!",
   "en-AU": "Hi, {{mum}}!",
   "en-PT": "Ahoy, {{mom}}!",
